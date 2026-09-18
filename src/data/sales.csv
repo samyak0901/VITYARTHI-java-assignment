@@ -1,0 +1,3 @@
+billNumber,dateTime,customerName,customerContact,subtotal,discount,tax,totalAmount,paymentMethod,items
+BILL-20260917-1002,2026-09-17T21:06:24.7630135,Walk-in Customer,N/A,125.00,0.00,0.00,125.00,Cash,"BILL-TEST-99;Checkout Test Med;B-CHECK;25.0;5"
+BILL-20260917-1001,2026-09-17T21:04:13.7194069,Walk-in Customer,N/A,125.00,0.00,0.00,125.00,Cash,"BILL-TEST-99;Checkout Test Med;B-CHECK;25.0;5"
