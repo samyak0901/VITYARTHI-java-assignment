@@ -1,1 +1,29 @@
-
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "type": "shell",
+            "command": "javac -d bin -sourcepath src src/Main.java src/TestRunner.java",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$javac"]
+        },
+        {
+            "label": "run",
+            "type": "shell",
+            "command": "java -cp bin Main",
+            "dependsOn": "build",
+            "problemMatcher": []
+        },
+        {
+            "label": "test",
+            "type": "shell",
+            "command": "java -cp bin TestRunner",
+            "dependsOn": "build",
+            "problemMatcher": []
+        }
+    ]
+}
