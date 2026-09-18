@@ -1,1 +1,21 @@
-
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run MEDICARE (GUI)",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Medical Inventory",
+            "preLaunchTask": "build"
+        },
+        {
+            "type": "java",
+            "name": "Run Automated Tests",
+            "request": "launch",
+            "mainClass": "TestRunner",
+            "projectName": "Medical Inventory",
+            "preLaunchTask": "build"
+        }
+    ]
+}
