@@ -1,0 +1,27 @@
+=========================================================
+                       MEDICARE                          
+         Medical Shop Inventory Management System         
+          124 Health Avenue, Care City, MD 56001         
+                    Phone: +1 800-MEDICARE               
+=========================================================
+ Bill Number : BILL-20260916-1001       
+ Date & Time : 16 Sept 2026, 10:15 am   
+ Customer    : Robert Miller            
+ Contact     : +1 555-0144              
+ Pay Mode    : Credit/Debit Card        
+---------------------------------------------------------
+Medicine Name        Batch      Qty     Price   Subtotal
+---------------------------------------------------------
+Azithromycin 500mg   AZ-442       1     95.00      95.00
+Cetirizine 10mg      CT-890       2     25.00      50.00
+---------------------------------------------------------
+Subtotal:                                        145.00
+Tax/GST:                                           7.25
+=========================================================
+ TOTAL AMOUNT:                           $       152.25
+=========================================================
+                    Thank you for choosing               
+                           MEDICARE!                     
+       Medicines sold are non-refundable after 7 days.   
+                 Wishing you speedy recovery!            
+=========================================================

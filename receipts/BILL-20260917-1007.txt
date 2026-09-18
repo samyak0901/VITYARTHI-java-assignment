@@ -1,0 +1,25 @@
+=========================================================
+                       MEDICARE                          
+         Medical Shop Inventory Management System         
+          124 Health Avenue, Care City, MD 56001         
+                    Phone: +1 800-MEDICARE               
+=========================================================
+ Bill Number : BILL-20260917-1007       
+ Date & Time : 17 Sept 2026, 08:53 pm   
+ Customer    : Walk-in Customer         
+ Contact     : N/A                      
+ Pay Mode    : Cash                     
+---------------------------------------------------------
+Medicine Name        Batch      Qty     Price   Subtotal
+---------------------------------------------------------
+Checkout Test Med    B-CHECK      5     25.00     125.00
+---------------------------------------------------------
+Subtotal:                                        125.00
+=========================================================
+ TOTAL AMOUNT:                           $       125.00
+=========================================================
+                    Thank you for choosing               
+                           MEDICARE!                     
+       Medicines sold are non-refundable after 7 days.   
+                 Wishing you speedy recovery!            
+=========================================================

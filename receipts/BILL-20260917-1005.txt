@@ -1,0 +1,28 @@
+=========================================================
+                       MEDICARE                          
+         Medical Shop Inventory Management System         
+          124 Health Avenue, Care City, MD 56001         
+                    Phone: +1 800-MEDICARE               
+=========================================================
+ Bill Number : BILL-20260917-1005       
+ Date & Time : 17 Sept 2026, 04:10 pm   
+ Customer    : David Wilson             
+ Contact     : +1 555-0331              
+ Pay Mode    : Cash                     
+---------------------------------------------------------
+Medicine Name        Batch      Qty     Price   Subtotal
+---------------------------------------------------------
+Vitamin D3 60k IU    VD-553       1    110.00     110.00
+Cough Relief Syru... CR-102       1     75.00      75.00
+---------------------------------------------------------
+Subtotal:                                        185.00
+Discount:                                        -15.00
+Tax/GST:                                           8.50
+=========================================================
+ TOTAL AMOUNT:                           $       178.50
+=========================================================
+                    Thank you for choosing               
+                           MEDICARE!                     
+       Medicines sold are non-refundable after 7 days.   
+                 Wishing you speedy recovery!            
+=========================================================

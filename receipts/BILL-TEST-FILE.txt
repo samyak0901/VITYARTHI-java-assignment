@@ -1,0 +1,25 @@
+=========================================================
+                       MEDICARE                          
+         Medical Shop Inventory Management System         
+          124 Health Avenue, Care City, MD 56001         
+                    Phone: +1 800-MEDICARE               
+=========================================================
+ Bill Number : BILL-TEST-FILE           
+ Date & Time : 17 Sept 2026, 09:04 pm   
+ Customer    : Jane Doe                 
+ Contact     : 555-0199                 
+ Pay Mode    : Card                     
+---------------------------------------------------------
+Medicine Name        Batch      Qty     Price   Subtotal
+---------------------------------------------------------
+Paracetamol          B101         2     10.00      20.00
+---------------------------------------------------------
+Subtotal:                                         20.00
+=========================================================
+ TOTAL AMOUNT:                           $        20.00
+=========================================================
+                    Thank you for choosing               
+                           MEDICARE!                     
+       Medicines sold are non-refundable after 7 days.   
+                 Wishing you speedy recovery!            
+=========================================================

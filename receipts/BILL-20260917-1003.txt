@@ -1,0 +1,28 @@
+=========================================================
+                       MEDICARE                          
+         Medical Shop Inventory Management System         
+          124 Health Avenue, Care City, MD 56001         
+                    Phone: +1 800-MEDICARE               
+=========================================================
+ Bill Number : BILL-20260917-1003       
+ Date & Time : 17 Sept 2026, 09:20 am   
+ Customer    : Michael Chang            
+ Contact     : +1 555-0219              
+ Pay Mode    : Cash                     
+---------------------------------------------------------
+Medicine Name        Batch      Qty     Price   Subtotal
+---------------------------------------------------------
+Pantoprazole 40mg    PN-204       2     42.00      84.00
+ORS Electrolyte P... ORS-99       4     22.00      88.00
+---------------------------------------------------------
+Subtotal:                                        172.00
+Discount:                                        -10.00
+Tax/GST:                                           8.10
+=========================================================
+ TOTAL AMOUNT:                           $       170.10
+=========================================================
+                    Thank you for choosing               
+                           MEDICARE!                     
+       Medicines sold are non-refundable after 7 days.   
+                 Wishing you speedy recovery!            
+=========================================================

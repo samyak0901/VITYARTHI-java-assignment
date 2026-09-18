@@ -1,0 +1,26 @@
+=========================================================
+                       MEDICARE                          
+         Medical Shop Inventory Management System         
+          124 Health Avenue, Care City, MD 56001         
+                    Phone: +1 800-MEDICARE               
+=========================================================
+ Bill Number : BILL-20260917-1004       
+ Date & Time : 17 Sept 2026, 11:45 am   
+ Customer    : Emily Davis              
+ Contact     : +1 555-0275              
+ Pay Mode    : Credit/Debit Card        
+---------------------------------------------------------
+Medicine Name        Batch      Qty     Price   Subtotal
+---------------------------------------------------------
+Azithromycin 500mg   AZ-442       2     95.00     190.00
+---------------------------------------------------------
+Subtotal:                                        190.00
+Tax/GST:                                           9.50
+=========================================================
+ TOTAL AMOUNT:                           $       199.50
+=========================================================
+                    Thank you for choosing               
+                           MEDICARE!                     
+       Medicines sold are non-refundable after 7 days.   
+                 Wishing you speedy recovery!            
+=========================================================

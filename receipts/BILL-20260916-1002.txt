@@ -1,0 +1,29 @@
+=========================================================
+                       MEDICARE                          
+         Medical Shop Inventory Management System         
+          124 Health Avenue, Care City, MD 56001         
+                    Phone: +1 800-MEDICARE               
+=========================================================
+ Bill Number : BILL-20260916-1002       
+ Date & Time : 16 Sept 2026, 02:40 pm   
+ Customer    : Sarah Jenkins            
+ Contact     : +1 555-0188              
+ Pay Mode    : UPI / QR Code            
+---------------------------------------------------------
+Medicine Name        Batch      Qty     Price   Subtotal
+---------------------------------------------------------
+Paracetamol 500mg    B101         2     12.50      25.00
+Ibuprofen 400mg      IB-312       2     18.00      36.00
+ORS Electrolyte P... ORS-99       1     22.00      22.00
+---------------------------------------------------------
+Subtotal:                                         83.00
+Discount:                                         -5.00
+Tax/GST:                                           3.38
+=========================================================
+ TOTAL AMOUNT:                           $        81.38
+=========================================================
+                    Thank you for choosing               
+                           MEDICARE!                     
+       Medicines sold are non-refundable after 7 days.   
+                 Wishing you speedy recovery!            
+=========================================================
